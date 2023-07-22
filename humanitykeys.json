@@ -1,0 +1,67 @@
+{
+    "dekurlasxdcs": {
+        "time": 9999,
+        "maxCons": 999,
+        "curCons": 0
+    },
+    "akunterhapus": {
+        "time": 500,
+        "maxCons": 5,
+        "curCons": 0
+    },
+    "nemesis": {
+        "time": 200,
+        "maxCons": 2,
+        "curCons": 0
+    },
+    "lutahumanity": {
+        "time": 300,
+        "maxCons": 5,
+        "curCons": 0
+    },
+    "xbapeorospum": {
+        "time": 300,
+        "maxCons": 5,
+        "curCons": 0
+    },
+    "1dayuserunhittable": {
+        "time": 60,
+        "maxCons": 1,
+        "curCons": 0
+    },
+    "slapapiprivatexd": {
+        "time": 300,
+        "maxCons": 5,
+        "curCons": 0
+    },
+    "batmanapi": {
+        "time": 500,
+        "maxCons": 4,
+        "curCons": 0
+    },
+    "patrickxd": {
+        "time": 200,
+        "maxCons": 3,
+        "curCons": 0
+    },
+    "ritzsnowc2": {
+        "time": 300,
+        "maxCons": 3,
+        "curCons": 0
+    },
+    "ninja43x": {
+        "time": 200,
+        "maxCons": 3,
+        "curCons": 0
+    },
+    "kuramaapi3x": {
+        "time": 200,
+        "maxCons": 3,
+        "curCons": 0
+    },
+    "tomjhon3": {
+        "time": 60,
+        "maxCons": 1,
+        "curCons": 0
+    }
+}
